@@ -1,0 +1,92 @@
+2024-08-14 15:39:07> SYSTEM : Analyze method - start; Method file C:\Program Files (x86)\HAMILTON\Methods\VM\VOVDailyMaintenance.hsl
+2024-08-14 15:39:07> SYSTEM : Analyze method - complete; 
+2024-08-14 15:39:07> SYSTEM : Start method - start; 
+2024-08-14 15:39:07> SYSTEM : Start method - progress; User name: labadmin
+2024-08-14 15:39:07> SYSTEM : Start method - progress; Phoenix software version: 4.6.0.8061
+2024-08-14 15:39:07> SYSTEM : Start method - progress; Database version: Standard
+2024-08-14 15:39:07> SYSTEM : Start method - progress; Sample tracking: On
+2024-08-14 15:39:07> SYSTEM : Start method - progress; Vector Database: On
+2024-08-14 15:39:07> SYSTEM : Start method - progress; Vector Database connection: Database 'HamiltonVectorDB' on Microsoft SQL Server 'LOCALHOST\HAMILTON' with user 'Hamilton'
+2024-08-14 15:39:09> SYSTEM : Start method - complete; 
+2024-08-14 15:39:09> SYSTEM : Execute method - start; Method file C:\Program Files (x86)\HAMILTON\Methods\VM\VOVDailyMaintenance.hsl
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Communication - progress; Connection to instrument is created.
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - start;
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Microlab® Star with Venus on Vantage software version: 4.6.0.5314
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Serial number of Instrument: 100064 0 81
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of main module: S.1.04.03.01 2022-02-11 (XRP AX)
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of 1000µl channels: S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX)
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of 5ml channels: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of labware handling channels: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of auto load: S.2.00.00.00 2020-06-17 (IDLoader)
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of iSWAP: S.1.02.01.02 2021-05-04 (XRP R0)
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of washer 1: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of washer 2: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of temperature-controlled carrier 1: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of temperature-controlled carrier 2: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of CO-RE 96 Head: S.1.00.06.01 2022-10-06 (XRP H0)
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 1: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 2: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 3: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of nano dispenser: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of nano dispenser pressure unit: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of CO-RE 384 Head: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of tube gripper: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of camera channel: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of gel card gripper: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of punch card gripper: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of puncher module: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 1 module 1: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 1 module 2: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 2 module 1: not installed
+2024-08-14 15:39:10> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 2 module 2: not installed
+2024-08-14 15:39:34> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - progress; Error handling waiting for manual recovery!
+2024-08-14 15:39:45> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - error;  > Front Cover: 1, E:C0:16/00:Repeat
+2024-08-14 15:39:48> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:39:50> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:40:04> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:40:05> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:40:06> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Cancel'.
+2024-08-14 15:40:06> Microlab® Star with Venus on Vantage : Main - error; An error occurred while running Vector.  The error description is: Step aborted.  The method should be restarted.  (C0: Cover not closed.) (0x28 - 0x1 - 0x804) 
+2024-08-14 15:40:06> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - progress; Error manually recovered by user.
+2024-08-14 15:40:07> Microlab® Star with Venus on Vantage : Start method command - complete with error;
+2024-08-14 15:40:07> SYSTEM : Method has been aborted by the system - complete; 
+2024-08-14 15:40:07> SYSTEM : Abort method - start; 
+2024-08-14 15:40:08> Microlab® Star with Venus on Vantage : End method command - start;
+2024-08-14 15:40:11> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - progress; Error handling waiting for manual recovery!
+2024-08-14 15:40:17> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Abort command' message 'Are you sure you want to abort the run?' was closed with button 'Yes'.
+2024-08-14 15:40:17> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - error;  > Front Cover: 1, E:C0:16/00:Abort
+2024-08-14 15:40:19> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:40:19> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:40:21> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:40:23> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Cancel'.
+2024-08-14 15:40:23> Microlab® Star with Venus on Vantage : Main - error; An error occurred while running Vector.  The error description is: Step aborted.  The method should be restarted.  (C0: Cover not closed.) (0x28 - 0x1 - 0x804) 
+2024-08-14 15:40:23> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - progress; Error manually recovered by user.
+2024-08-14 15:40:31> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - progress; Error handling waiting for manual recovery!
+2024-08-14 15:40:36> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Abort command' message 'Are you sure you want to abort the run?' was closed with button 'Yes'.
+2024-08-14 15:40:36> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - error;  > Front Cover: 1, E:C0:16/00:Abort
+2024-08-14 15:40:40> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:40:40> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:40:41> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:45:24> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:45:25> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:45:25> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:45:43> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:45:44> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:45:44> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:45:45> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:45:45> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:45:46> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:46:20> Microlab® Star with Venus on Vantage :  - progress; User action: Message box 'Cover Error' message 'Cover is open! Close the cover to continue' was closed with button 'Retry'.
+2024-08-14 15:46:27> Microlab® Star with Venus on Vantage : Main - error; An error occurred while running Vector.  The error description is: Step aborted.  The method should be restarted.  (C0: Cover not closed.) (0x28 - 0x1 - 0x804) 
+2024-08-14 15:46:27> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - progress; Error manually recovered by user.
+2024-08-14 15:46:27> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move up 1000ul channels
+2024-08-14 15:46:28> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move up CO-RE 96 Head
+2024-08-14 15:46:28> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move down auto load Y drive
+2024-08-14 15:46:28> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Switch off loading lights
+2024-08-14 15:46:28> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Switch status light to idle.
+2024-08-14 15:46:30> Microlab® Star with Venus on Vantage : End method command - complete;
+2024-08-14 15:46:30> SYSTEM : Abort method - complete; 
+2024-08-14 15:46:30> SYSTEM : Execute method - complete with error; 
+2024-08-14 15:46:30> SYSTEM : End method - start; 
+2024-08-14 15:46:30> SYSTEM : End method - complete; 
+2024-08-14 15:46:39> SYSTEM : File checksum - written; $$author=labadmin$$valid=0$$time=2024-08-14 15:46$$checksum=fd58fa42$$length=137$$

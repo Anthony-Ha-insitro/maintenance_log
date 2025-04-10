@@ -1,0 +1,63 @@
+2023-10-13 14:44:07> SYSTEM : Analyze method - start; Method file C:\Program Files (x86)\HAMILTON\Methods\VM\VOVDailyMaintenance.hsl
+2023-10-13 14:44:07> SYSTEM : Analyze method - complete; 
+2023-10-13 14:44:07> SYSTEM : Start method - start; 
+2023-10-13 14:44:07> SYSTEM : Start method - progress; User name: labadmin
+2023-10-13 14:44:07> SYSTEM : Start method - progress; Phoenix software version: 4.6.0.8061
+2023-10-13 14:44:07> SYSTEM : Start method - progress; Database version: Standard
+2023-10-13 14:44:07> SYSTEM : Start method - progress; Sample tracking: Off
+2023-10-13 14:44:07> SYSTEM : Start method - progress; Vector Database: On
+2023-10-13 14:44:07> SYSTEM : Start method - progress; Vector Database connection: Database 'HamiltonVectorDB' on Microsoft SQL Server 'LOCALHOST\HAMILTON' with user 'Hamilton'
+2023-10-13 14:44:07> SYSTEM : Start method - complete; 
+2023-10-13 14:44:07> SYSTEM : Execute method - start; Method file C:\Program Files (x86)\HAMILTON\Methods\VM\VOVDailyMaintenance.hsl
+2023-10-13 14:44:08> Microlab® Star with Venus on Vantage : Communication - progress; Connection to instrument is created.
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - start;
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Microlab® Star with Venus on Vantage software version: 4.6.0.5314
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Serial number of Instrument: 100064 0 81
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of main module: S.1.04.03.01 2022-02-11 (XRP AX)
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of 1000µl channels: S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX)
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of 5ml channels: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of labware handling channels: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of auto load: S.2.00.00.00 2020-06-17 (IDLoader)
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of iSWAP: S.1.02.01.02 2021-05-04 (XRP R0)
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of washer 1: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of washer 2: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of temperature-controlled carrier 1: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of temperature-controlled carrier 2: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of CO-RE 96 Head: S.1.00.06.01 2022-10-06 (XRP H0)
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 1: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 2: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 3: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of nano dispenser: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of nano dispenser pressure unit: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of CO-RE 384 Head: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of tube gripper: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of camera channel: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of gel card gripper: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of punch card gripper: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of puncher module: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 1 module 1: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 1 module 2: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 2 module 1: not installed
+2023-10-13 14:44:09> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 2 module 2: not installed
+2023-10-13 14:44:29> Microlab® Star with Venus on Vantage : Start method command - complete;
+2023-10-13 14:44:29> Microlab® Star with Venus on Vantage : Initialize (Single Step) - start;
+2023-10-13 14:44:50> Microlab® Star with Venus on Vantage : Initialize (Single Step) - complete with error; An error occurred while running Vector.  The error description is: Instrument error received.  ([P2: Y drive, Step lost on Y drive.]) (0x28 - 0x2 - 0x807) 
+2023-10-13 14:44:50> SYSTEM : Message Box - start; <Daily maintenance - error>,   Available button(s): <OK>,   Default button: <OK>,   Message: <An error occurred while running Vector.  The error description is: Instrument error received.  ([P2: Y drive, Step lost on Y drive.]) (0x28 - 0x2 - 0x807) >
+2023-10-13 14:45:23> SYSTEM : Message Box - complete; <Daily maintenance - error>,   Closed with: <OK (1)>
+2023-10-13 14:45:23> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2023-10-13 14:45:23> Microlab® Star with Venus on Vantage : Main - error; An error occurred while running Vector.  The error description is: Instrument not initialized, call first Initialize step. (0x28 - 0x1 - 0x812) 
+2023-10-13 14:45:23> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete with error; An error occurred while running Vector.  The error description is: Instrument not initialized, call first Initialize step. (0x28 - 0x1 - 0x812)   > Front Cover: 
+2023-10-13 14:45:23> Microlab® Star with Venus on Vantage : End method command - start;
+2023-10-13 14:45:32> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move up 1000ul channels
+2023-10-13 14:45:32> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move up CO-RE 96 Head
+2023-10-13 14:45:32> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move down auto load Y drive
+2023-10-13 14:45:33> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Switch off loading lights
+2023-10-13 14:45:33> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Switch status light to idle.
+2023-10-13 14:45:34> Microlab® Star with Venus on Vantage : End method command - complete;
+2023-10-13 14:45:35> SYSTEM : Method has been aborted by the system - complete; 
+2023-10-13 14:45:35> SYSTEM : Abort method - start; 
+2023-10-13 14:45:35> SYSTEM : Abort method - complete; 
+2023-10-13 14:45:35> SYSTEM : Execute method - complete with error; 
+2023-10-13 14:45:35> SYSTEM : End method - start; 
+2023-10-13 14:45:35> SYSTEM : End method - complete; 
+2023-10-13 14:45:41> SYSTEM : File checksum - written; $$author=labadmin$$valid=0$$time=2023-10-13 14:45$$checksum=1f7eb548$$length=137$$

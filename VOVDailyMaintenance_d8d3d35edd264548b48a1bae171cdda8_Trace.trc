@@ -1,0 +1,844 @@
+2025-02-06 15:55:25> SYSTEM : Analyze method - start; Method file C:\Program Files (x86)\HAMILTON\Methods\VM\VOVDailyMaintenance.hsl
+2025-02-06 15:55:25> SYSTEM : Analyze method - complete; 
+2025-02-06 15:55:25> SYSTEM : Start method - start; 
+2025-02-06 15:55:25> SYSTEM : Start method - progress; User name: labuser
+2025-02-06 15:55:25> SYSTEM : Start method - progress; Phoenix software version: 4.5.0.7977
+2025-02-06 15:55:26> SYSTEM : Start method - progress; Database version: Standard
+2025-02-06 15:55:26> SYSTEM : Start method - progress; Sample tracking: On
+2025-02-06 15:55:26> SYSTEM : Start method - progress; Vector Database: On
+2025-02-06 15:55:26> SYSTEM : Start method - progress; Vector Database connection: Database 'HamiltonVectorDB' on Microsoft SQL Server 'LOCALHOST\HAMILTON' with user 'Hamilton'
+2025-02-06 15:55:27> SYSTEM : Start method - complete; 
+2025-02-06 15:55:27> SYSTEM : Execute method - start; Method file C:\Program Files (x86)\HAMILTON\Methods\VM\VOVDailyMaintenance.hsl
+2025-02-06 15:55:28> Microlab® Star with Venus on Vantage : Communication - progress; Connection to instrument is created.
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - start;
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Microlab® Star with Venus on Vantage software version: 4.5.0.5217
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Serial number of Instrument: 1526 1 81
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of main module: S.1.01.00.00 2018-12-06
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of 1000µl channels: S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX)
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of 5ml channels: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of labware handling channels: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of auto load: S.1.00.00.52 2017-12-12 (XRP IX IDL2EC)
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of iSWAP: S.1.01.01.02 2018-04-27 (XRP R0)
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of washer 1: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of washer 2: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of temperature-controlled carrier 1: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of temperature-controlled carrier 2: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of CO-RE 96 Head: S.1.00.06.01 2022-10-06 (XRP H0)
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 1: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 2: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 3: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of nano dispenser: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of nano dispenser pressure unit: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of CO-RE 384 Head: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of tube gripper: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of camera channel: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of gel card gripper: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of punch card gripper: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of puncher module: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 1 module 1: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 1 module 2: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 2 module 1: not installed
+2025-02-06 15:55:29> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 2 module 2: not installed
+2025-02-06 15:55:31> Microlab® Star with Venus on Vantage : Start method command - complete;
+2025-02-06 15:55:31> Microlab® Star with Venus on Vantage : Initialize (Single Step) - start;
+2025-02-06 15:56:05> Microlab® Star with Venus on Vantage : Initialize (Single Step) - complete;  > channel 1: VStarWaste_16Pos_0001,  > channel 2: VStarWaste_16Pos_0001,  > channel 3: VStarWaste_16Pos_0001,  > channel 4: VStarWaste_16Pos_0001,  > channel 5: VStarWaste_16Pos_0001,  > channel 6: VStarWaste_16Pos_0001,  > channel 7: VStarWaste_16Pos_0001,  > channel 8: VStarWaste_16Pos_0001, 
+2025-02-06 15:56:05> USER : Trace - complete; Instrument Name: Microlab® Star with Venus on Vantage
+2025-02-06 15:56:05> USER : Trace - complete; User Software Version: 4.5.0.5217
+2025-02-06 15:56:05> USER : Trace - complete; Operator:labuser
+2025-02-06 15:56:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RI: er00/00si2019-03-14sn1526 1 81
+2025-02-06 15:56:05> USER : Trace - complete; Instrument Serial No: 1526
+2025-02-06 15:56:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RM: er00/00kb0Fkp08 C00000 H00000 R00000 P10000 P20000 P30000 P40000 P50000 P60000 P70000 P80000 I00000 R00000
+2025-02-06 15:56:05> USER : Trace - complete; Instrument Number of 1000ul Channels: 8
+2025-02-06 15:56:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > QM: er00/00ka410087ke00000000xt84xa77xw13845xl07xn00xr00xo00xm03600xx18150xu4090xv0000kc0kr0ys090kl180km000ym6530yu0015yx0000
+2025-02-06 15:56:05> USER : Trace - complete; Instrument Number of 5ml Channels: 0
+2025-02-06 15:56:05> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2025-02-06 15:56:06> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete;  > Front Cover: unlocked
+2025-02-06 15:56:06> SYSTEM : Message Box - start; <Daily maintenance - check deck cleaning>,   Available button(s): <OK>, <Cancel>,   Default button: <OK>,   Message: <Open the front cover and check if the deck needs to be cleaned.  If the deck is clean, press OK to continue.  If the deck needs to be cleaned, press Cancel to abort the daily maintenance. Instead, proceed with the weekly maintenance.>
+2025-02-06 15:56:07> SYSTEM : Message Box - complete; <Daily maintenance - check deck cleaning>,   Closed with: <OK (1)>
+2025-02-06 15:56:07> SYSTEM : Message Box - start; <Daily maintenance - tip waste>,   Available button(s): <OK>, <Cancel>,   Default button: <OK>,   Message: <Empty the tip waste and press OK to continue.  Cancel will abort the daily maintenance.>
+2025-02-06 15:56:08> SYSTEM : Message Box - complete; <Daily maintenance - tip waste>,   Closed with: <OK (1)>
+2025-02-06 15:56:08> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:08> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > QC: er00/00qc1
+2025-02-06 15:56:08> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2025-02-06 15:56:09> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete;  > Front Cover: locked
+2025-02-06 15:56:09> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > AV: er00/00
+2025-02-06 15:56:11> USER : Trace - complete; bottom under pressure check for channels: 11111111
+2025-02-06 15:56:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DQer00
+2025-02-06 15:56:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DQer00
+2025-02-06 15:56:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1BPer00
+2025-02-06 15:56:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DQer00
+2025-02-06 15:56:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DQer00
+2025-02-06 15:56:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2BPer00
+2025-02-06 15:56:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DQer00
+2025-02-06 15:56:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DQer00
+2025-02-06 15:56:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3BPer00
+2025-02-06 15:56:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DQer00
+2025-02-06 15:56:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DQer00
+2025-02-06 15:56:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4BPer00
+2025-02-06 15:56:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DQer00
+2025-02-06 15:56:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DQer00
+2025-02-06 15:56:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5BPer00
+2025-02-06 15:56:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DQer00
+2025-02-06 15:56:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DQer00
+2025-02-06 15:56:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6BPer00
+2025-02-06 15:56:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DQer00
+2025-02-06 15:56:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DQer00
+2025-02-06 15:56:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7BPer00
+2025-02-06 15:56:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DQer00
+2025-02-06 15:56:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DQer00
+2025-02-06 15:56:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8BPer00
+2025-02-06 15:56:18> USER : Trace - complete; FormatCmdForTipPickup = A1PMTPtt10&tp2220&tz2120&th2450&td3&te2450&xp13740&yp5139 5049 4959 4869 4689 4599 4509 4419ba9375&tm1 1 1 1 1 1 1 1
+2025-02-06 15:56:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1PMTPer00
+2025-02-06 15:56:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DPer00
+2025-02-06 15:56:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DPer00
+2025-02-06 15:56:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DPer00
+2025-02-06 15:56:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:29> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DPer00
+2025-02-06 15:56:29> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:29> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DPer00
+2025-02-06 15:56:29> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DPer00
+2025-02-06 15:56:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:31> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DPer00
+2025-02-06 15:56:31> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:32> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DPer00
+2025-02-06 15:56:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-4004
+2025-02-06 15:56:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-4008
+2025-02-06 15:56:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3987
+2025-02-06 15:56:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-4007
+2025-02-06 15:56:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3690
+2025-02-06 15:56:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3969
+2025-02-06 15:56:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3990
+2025-02-06 15:56:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:36> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3985
+2025-02-06 15:56:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3987
+2025-02-06 15:56:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3983
+2025-02-06 15:56:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3950
+2025-02-06 15:56:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-4002
+2025-02-06 15:56:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-2740
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3906
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3926
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3963
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2750 2749
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1635
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2753 2752
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1539
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2739 2739
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1984
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2769 2768
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1590
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2714 2714
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1513
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2752 2753
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg0
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2731 2731
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg0
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2765 2766
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg2001
+2025-02-06 15:56:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:58> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DPer00
+2025-02-06 15:56:58> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:56:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DPer00
+2025-02-06 15:56:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DPer00
+2025-02-06 15:57:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DPer00
+2025-02-06 15:57:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:01> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DPer00
+2025-02-06 15:57:01> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:02> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DPer00
+2025-02-06 15:57:02> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:02> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DPer00
+2025-02-06 15:57:02> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DPer00
+2025-02-06 15:57:03> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - start;
+2025-02-06 15:57:09> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - complete;  > channel 1: TeachingNeedleBlock_VStar_4_0002, 1 > channel 2: TeachingNeedleBlock_VStar_4_0002, 2 > channel 3: TeachingNeedleBlock_VStar_4_0002, 3 > channel 4: TeachingNeedleBlock_VStar_4_0002, 4 > channel 5: TeachingNeedleBlock_VStar_4_0001, 1 > channel 6: TeachingNeedleBlock_VStar_4_0001, 2 > channel 7: TeachingNeedleBlock_VStar_4_0001, 3 > channel 8: TeachingNeedleBlock_VStar_4_0001, 4
+2025-02-06 15:57:09> USER : Trace - complete; Leak rate, channel 1 = 613.8868844
+2025-02-06 15:57:09> USER : Trace - complete; Leak rate, channel 2 = 908.575735
+2025-02-06 15:57:09> USER : Trace - complete; Leak rate, channel 3 = 1304.974053
+2025-02-06 15:57:09> USER : Trace - complete; Leak rate, channel 4 = 181.304982
+2025-02-06 15:57:09> USER : Trace - complete; Leak rate, channel 5 = 34499.15861
+2025-02-06 15:57:09> USER : Trace - complete; Leak rate, channel 6 = 2517.0063282
+2025-02-06 15:57:09> USER : Trace - complete; Leak rate, channel 7 = 2553.6587392
+2025-02-06 15:57:09> USER : Trace - complete; Leak rate, channel 8 = 776.446154
+2025-02-06 15:57:09> USER : Trace - complete; bottom over pressure check for channels: 11111111
+2025-02-06 15:57:09> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:09> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DQer00
+2025-02-06 15:57:09> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DQer00
+2025-02-06 15:57:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1BPer00
+2025-02-06 15:57:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DQer00
+2025-02-06 15:57:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DQer00
+2025-02-06 15:57:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2BPer00
+2025-02-06 15:57:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DQer00
+2025-02-06 15:57:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DQer00
+2025-02-06 15:57:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3BPer00
+2025-02-06 15:57:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DQer00
+2025-02-06 15:57:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DQer00
+2025-02-06 15:57:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4BPer00
+2025-02-06 15:57:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DQer00
+2025-02-06 15:57:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DQer00
+2025-02-06 15:57:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5BPer00
+2025-02-06 15:57:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DQer00
+2025-02-06 15:57:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DQer00
+2025-02-06 15:57:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6BPer00
+2025-02-06 15:57:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DQer00
+2025-02-06 15:57:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DQer00
+2025-02-06 15:57:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7BPer00
+2025-02-06 15:57:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:20> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DQer00
+2025-02-06 15:57:20> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:21> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DQer00
+2025-02-06 15:57:21> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:21> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8BPer00
+2025-02-06 15:57:21> USER : Trace - complete; FormatCmdForTipPickup = A1PMTPtt10&tp2220&tz2120&th2450&td3&te2450&xp13740&yp5139 5049 4959 4869 4689 4599 4509 4419ba14996&tm1 1 1 1 1 1 1 1
+2025-02-06 15:57:21> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1PMTPer00
+2025-02-06 15:57:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DPer00
+2025-02-06 15:57:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DPer00
+2025-02-06 15:57:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DPer00
+2025-02-06 15:57:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:29> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DPer00
+2025-02-06 15:57:29> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:29> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DPer00
+2025-02-06 15:57:29> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DPer00
+2025-02-06 15:57:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:31> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DPer00
+2025-02-06 15:57:31> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:31> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DPer00
+2025-02-06 15:57:33> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp4007
+2025-02-06 15:57:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp4000
+2025-02-06 15:57:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3985
+2025-02-06 15:57:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3994
+2025-02-06 15:57:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3686
+2025-02-06 15:57:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3973
+2025-02-06 15:57:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3992
+2025-02-06 15:57:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3993
+2025-02-06 15:57:55> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:55> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3967
+2025-02-06 15:57:55> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3952
+2025-02-06 15:57:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3933
+2025-02-06 15:57:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3961
+2025-02-06 15:57:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp2640
+2025-02-06 15:57:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3897
+2025-02-06 15:57:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3918
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3925
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2744 2745
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1635
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2728 2729
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1539
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2756 2757
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1984
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2762 2763
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1590
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2702 2703
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1513
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2675 2676
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg0
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2736 2736
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg0
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd2772 2771
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg2001
+2025-02-06 15:57:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:58> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DPer00
+2025-02-06 15:57:58> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DPer00
+2025-02-06 15:57:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:57:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DPer00
+2025-02-06 15:57:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DPer00
+2025-02-06 15:58:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:01> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DPer00
+2025-02-06 15:58:01> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:01> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DPer00
+2025-02-06 15:58:01> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:02> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DPer00
+2025-02-06 15:58:02> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DPer00
+2025-02-06 15:58:03> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - start;
+2025-02-06 15:58:09> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - complete;  > channel 1: TeachingNeedleBlock_VStar_4_0002, 1 > channel 2: TeachingNeedleBlock_VStar_4_0002, 2 > channel 3: TeachingNeedleBlock_VStar_4_0002, 3 > channel 4: TeachingNeedleBlock_VStar_4_0002, 4 > channel 5: TeachingNeedleBlock_VStar_4_0001, 1 > channel 6: TeachingNeedleBlock_VStar_4_0001, 2 > channel 7: TeachingNeedleBlock_VStar_4_0001, 3 > channel 8: TeachingNeedleBlock_VStar_4_0001, 4
+2025-02-06 15:58:09> USER : Trace - complete; Leak rate, channel 1 = 1444.06472
+2025-02-06 15:58:09> USER : Trace - complete; Leak rate, channel 2 = 1741.877856
+2025-02-06 15:58:09> USER : Trace - complete; Leak rate, channel 3 = 1836.2113848
+2025-02-06 15:58:09> USER : Trace - complete; Leak rate, channel 4 = 1196.2261542
+2025-02-06 15:58:09> USER : Trace - complete; Leak rate, channel 5 = 37958.421612
+2025-02-06 15:58:09> USER : Trace - complete; Leak rate, channel 6 = 3022.6726688
+2025-02-06 15:58:09> USER : Trace - complete; Leak rate, channel 7 = 2953.5351232
+2025-02-06 15:58:09> USER : Trace - complete; Leak rate, channel 8 = 2400.721368
+2025-02-06 15:58:09> USER : Trace - complete; top under pressure check for channels: 11111111
+2025-02-06 15:58:09> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:09> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DQer00
+2025-02-06 15:58:09> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DQer00
+2025-02-06 15:58:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1BPer00
+2025-02-06 15:58:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DQer00
+2025-02-06 15:58:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DQer00
+2025-02-06 15:58:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2BPer00
+2025-02-06 15:58:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DQer00
+2025-02-06 15:58:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:23> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DQer00
+2025-02-06 15:58:23> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:23> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3BPer00
+2025-02-06 15:58:23> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:24> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DQer00
+2025-02-06 15:58:24> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DQer00
+2025-02-06 15:58:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4BPer00
+2025-02-06 15:58:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DQer00
+2025-02-06 15:58:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:33> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DQer00
+2025-02-06 15:58:33> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:33> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5BPer00
+2025-02-06 15:58:33> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:33> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DQer00
+2025-02-06 15:58:33> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:37> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DQer00
+2025-02-06 15:58:37> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:38> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6BPer00
+2025-02-06 15:58:38> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:38> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DQer00
+2025-02-06 15:58:38> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:42> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DQer00
+2025-02-06 15:58:42> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:42> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7BPer00
+2025-02-06 15:58:42> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:43> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DQer00
+2025-02-06 15:58:43> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:47> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DQer00
+2025-02-06 15:58:47> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:47> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8BPer00
+2025-02-06 15:58:47> USER : Trace - complete; FormatCmdForTipPickup = A1PMTPtt10&tp2220&tz2120&th2450&td3&te2450&xp13740&yp5139 5049 4959 4869 4689 4599 4509 4419ba96096&tm1 1 1 1 1 1 1 1
+2025-02-06 15:58:47> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:53> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1PMTPer00
+2025-02-06 15:58:53> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DPer00
+2025-02-06 15:58:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:55> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DPer00
+2025-02-06 15:58:55> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DPer00
+2025-02-06 15:58:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DPer00
+2025-02-06 15:58:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:58:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DPer00
+2025-02-06 15:58:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DPer00
+2025-02-06 15:59:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:01> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DPer00
+2025-02-06 15:59:01> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:02> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DPer00
+2025-02-06 15:59:04> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:04> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3965
+2025-02-06 15:59:04> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3970
+2025-02-06 15:59:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3950
+2025-02-06 15:59:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3969
+2025-02-06 15:59:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3775
+2025-02-06 15:59:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3943
+2025-02-06 15:59:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:06> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3968
+2025-02-06 15:59:06> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:06> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3973
+2025-02-06 15:59:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3957
+2025-02-06 15:59:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3958
+2025-02-06 15:59:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3938
+2025-02-06 15:59:26> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3975
+2025-02-06 15:59:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3304
+2025-02-06 15:59:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3902
+2025-02-06 15:59:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3949
+2025-02-06 15:59:27> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp-3963
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22057 22056
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1635
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22061 22060
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1539
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22036 22036
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1984
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22087 22086
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1590
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22015 22014
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1513
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22050 22051
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg0
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22029 22029
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg0
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22075 22076
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg2001
+2025-02-06 15:59:28> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:29> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DPer00
+2025-02-06 15:59:29> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DPer00
+2025-02-06 15:59:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:31> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DPer00
+2025-02-06 15:59:31> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:32> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DPer00
+2025-02-06 15:59:32> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:33> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DPer00
+2025-02-06 15:59:33> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DPer00
+2025-02-06 15:59:34> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DPer00
+2025-02-06 15:59:35> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:37> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DPer00
+2025-02-06 15:59:37> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - start;
+2025-02-06 15:59:43> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - complete;  > channel 1: TeachingNeedleBlock_VStar_4_0002, 1 > channel 2: TeachingNeedleBlock_VStar_4_0002, 2 > channel 3: TeachingNeedleBlock_VStar_4_0002, 3 > channel 4: TeachingNeedleBlock_VStar_4_0002, 4 > channel 5: TeachingNeedleBlock_VStar_4_0001, 1 > channel 6: TeachingNeedleBlock_VStar_4_0001, 2 > channel 7: TeachingNeedleBlock_VStar_4_0001, 3 > channel 8: TeachingNeedleBlock_VStar_4_0001, 4
+2025-02-06 15:59:43> USER : Trace - complete; Leak rate, channel 1 = 650.9019184
+2025-02-06 15:59:43> USER : Trace - complete; Leak rate, channel 2 = 979.1654376
+2025-02-06 15:59:43> USER : Trace - complete; Leak rate, channel 3 = 965.9745312
+2025-02-06 15:59:43> USER : Trace - complete; Leak rate, channel 4 = -489.2311488
+2025-02-06 15:59:43> USER : Trace - complete; Leak rate, channel 5 = 38410.1648298
+2025-02-06 15:59:43> USER : Trace - complete; Leak rate, channel 6 = 3492.5084858
+2025-02-06 15:59:43> USER : Trace - complete; Leak rate, channel 7 = 1617.4998338
+2025-02-06 15:59:43> USER : Trace - complete; Leak rate, channel 8 = 805.51785
+2025-02-06 15:59:43> USER : Trace - complete; top over pressure check for channels: 11111111
+2025-02-06 15:59:43> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:44> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DQer00
+2025-02-06 15:59:44> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:49> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DQer00
+2025-02-06 15:59:49> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:49> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1BPer00
+2025-02-06 15:59:49> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:51> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DQer00
+2025-02-06 15:59:51> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DQer00
+2025-02-06 15:59:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2BPer00
+2025-02-06 15:59:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 15:59:58> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DQer00
+2025-02-06 15:59:58> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DQer00
+2025-02-06 16:00:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3BPer00
+2025-02-06 16:00:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DQer00
+2025-02-06 16:00:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DQer00
+2025-02-06 16:00:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4BPer00
+2025-02-06 16:00:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DQer00
+2025-02-06 16:00:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DQer00
+2025-02-06 16:00:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5BPer00
+2025-02-06 16:00:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DQer00
+2025-02-06 16:00:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:23> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DQer00
+2025-02-06 16:00:23> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:23> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6BPer00
+2025-02-06 16:00:23> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:25> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DQer00
+2025-02-06 16:00:25> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DQer00
+2025-02-06 16:00:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7BPer00
+2025-02-06 16:00:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:32> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DQer00
+2025-02-06 16:00:32> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:37> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DQer00
+2025-02-06 16:00:37> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:37> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8BPer00
+2025-02-06 16:00:37> USER : Trace - complete; FormatCmdForTipPickup = A1PMTPtt10&tp2220&tz2120&th2450&td3&te2450&xp13740&yp5139 5049 4959 4869 4689 4599 4509 4419ba110159&tm1 1 1 1 1 1 1 1
+2025-02-06 16:00:37> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:42> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1PMTPer00
+2025-02-06 16:00:42> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:43> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DPer00
+2025-02-06 16:00:43> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:44> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DPer00
+2025-02-06 16:00:44> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:45> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DPer00
+2025-02-06 16:00:45> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:47> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DPer00
+2025-02-06 16:00:47> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:48> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DPer00
+2025-02-06 16:00:48> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:49> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DPer00
+2025-02-06 16:00:49> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:50> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DPer00
+2025-02-06 16:00:50> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:51> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DPer00
+2025-02-06 16:00:53> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:53> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3966
+2025-02-06 16:00:53> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:53> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3972
+2025-02-06 16:00:53> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:53> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3971
+2025-02-06 16:00:53> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3968
+2025-02-06 16:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3786
+2025-02-06 16:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3952
+2025-02-06 16:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3965
+2025-02-06 16:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3958
+2025-02-06 16:01:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3962
+2025-02-06 16:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3965
+2025-02-06 16:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3955
+2025-02-06 16:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3956
+2025-02-06 16:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3297
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3929
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3937
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RP: er00rp3941
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22278 22279
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1635
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22253 22254
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1539
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22281 22281
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1984
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22296 22297
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1590
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22229 22230
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg1513
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22200 22201
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg0
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22260 22260
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg0
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RD: er00rd22303 22304
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RA: er00kg2001
+2025-02-06 16:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DPer00
+2025-02-06 16:01:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DPer00
+2025-02-06 16:01:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:20> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DPer00
+2025-02-06 16:01:20> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:21> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DPer00
+2025-02-06 16:01:21> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:22> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DPer00
+2025-02-06 16:01:22> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:23> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DPer00
+2025-02-06 16:01:23> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:24> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DPer00
+2025-02-06 16:01:24> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:25> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DPer00
+2025-02-06 16:01:25> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - start;
+2025-02-06 16:01:31> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - complete;  > channel 1: TeachingNeedleBlock_VStar_4_0002, 1 > channel 2: TeachingNeedleBlock_VStar_4_0002, 2 > channel 3: TeachingNeedleBlock_VStar_4_0002, 3 > channel 4: TeachingNeedleBlock_VStar_4_0002, 4 > channel 5: TeachingNeedleBlock_VStar_4_0001, 1 > channel 6: TeachingNeedleBlock_VStar_4_0001, 2 > channel 7: TeachingNeedleBlock_VStar_4_0001, 3 > channel 8: TeachingNeedleBlock_VStar_4_0001, 4
+2025-02-06 16:01:31> USER : Trace - complete; Leak rate, channel 1 = 327.5416288
+2025-02-06 16:01:31> USER : Trace - complete; Leak rate, channel 2 = 574.362719
+2025-02-06 16:01:31> USER : Trace - complete; Leak rate, channel 3 = 1297.1537376
+2025-02-06 16:01:31> USER : Trace - complete; Leak rate, channel 4 = 984.3967992
+2025-02-06 16:01:31> USER : Trace - complete; Leak rate, channel 5 = 40125.6307494
+2025-02-06 16:01:31> USER : Trace - complete; Leak rate, channel 6 = 1967.2981874
+2025-02-06 16:01:31> USER : Trace - complete; Leak rate, channel 7 = 2398.843664
+2025-02-06 16:01:31> USER : Trace - complete; Leak rate, channel 8 = 1378.4649138
+2025-02-06 16:01:31> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Pick Up (Single Step) - start;
+2025-02-06 16:01:49> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Pick Up (Single Step) - complete;  > channel 1: TeachingNeedleBlock_VStar_4_0002, 1 > channel 2: TeachingNeedleBlock_VStar_4_0002, 2 > channel 3: TeachingNeedleBlock_VStar_4_0002, 3 > channel 4: TeachingNeedleBlock_VStar_4_0002, 4 > channel 5: TeachingNeedleBlock_VStar_4_0001, 1 > channel 6: TeachingNeedleBlock_VStar_4_0001, 2 > channel 7: TeachingNeedleBlock_VStar_4_0001, 3 > channel 8: TeachingNeedleBlock_VStar_4_0001, 4
+2025-02-06 16:01:49> USER : Trace - complete; cLLD check for channels: 11111111
+2025-02-06 16:01:49> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:49> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > AL: er00
+2025-02-06 16:01:49> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:51> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > JM: er00/00
+2025-02-06 16:01:51> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:52> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er70
+2025-02-06 16:01:52> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:52> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn0
+2025-02-06 16:01:52> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:52> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er62
+2025-02-06 16:01:52> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:52> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn1
+2025-02-06 16:01:52> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:53> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > KZ: er00/00
+2025-02-06 16:01:53> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:55> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > JM: er00/00
+2025-02-06 16:01:55> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er70
+2025-02-06 16:01:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn0
+2025-02-06 16:01:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er62
+2025-02-06 16:01:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn1
+2025-02-06 16:01:56> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > KZ: er00/00
+2025-02-06 16:01:57> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > JM: er00/00
+2025-02-06 16:01:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er70
+2025-02-06 16:01:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:01:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn0
+2025-02-06 16:01:59> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er62
+2025-02-06 16:02:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn1
+2025-02-06 16:02:00> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:01> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > KZ: er00/00
+2025-02-06 16:02:01> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > JM: er00/00
+2025-02-06 16:02:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er70
+2025-02-06 16:02:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn0
+2025-02-06 16:02:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er62
+2025-02-06 16:02:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn1
+2025-02-06 16:02:03> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:04> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > KZ: er00/00
+2025-02-06 16:02:04> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:06> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > JM: er00/00
+2025-02-06 16:02:06> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:07> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er70
+2025-02-06 16:02:07> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:07> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn0
+2025-02-06 16:02:07> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:07> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er62
+2025-02-06 16:02:07> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:07> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn1
+2025-02-06 16:02:07> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:08> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > KZ: er00/00
+2025-02-06 16:02:08> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > JM: er00/00
+2025-02-06 16:02:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er70
+2025-02-06 16:02:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn0
+2025-02-06 16:02:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er62
+2025-02-06 16:02:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn1
+2025-02-06 16:02:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > KZ: er00/00
+2025-02-06 16:02:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > JM: er00/00
+2025-02-06 16:02:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er70
+2025-02-06 16:02:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn0
+2025-02-06 16:02:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er62
+2025-02-06 16:02:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn1
+2025-02-06 16:02:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > KZ: er00/00
+2025-02-06 16:02:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > JM: er00/00
+2025-02-06 16:02:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er70
+2025-02-06 16:02:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn0
+2025-02-06 16:02:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ZL: er62
+2025-02-06 16:02:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RN: er00rn1
+2025-02-06 16:02:18> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > KZ: er00/00
+2025-02-06 16:02:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:19> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > AL: er00
+2025-02-06 16:02:19> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - start;
+2025-02-06 16:02:29> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - complete;  > channel 1: TeachingNeedleBlock_VStar_4_0002, 1 > channel 2: TeachingNeedleBlock_VStar_4_0002, 2 > channel 3: TeachingNeedleBlock_VStar_4_0002, 3 > channel 4: TeachingNeedleBlock_VStar_4_0002, 4 > channel 5: TeachingNeedleBlock_VStar_4_0001, 1 > channel 6: TeachingNeedleBlock_VStar_4_0001, 2 > channel 7: TeachingNeedleBlock_VStar_4_0001, 3 > channel 8: TeachingNeedleBlock_VStar_4_0001, 4
+2025-02-06 16:02:29> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > DI: er00
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 1 mean bottom P = 1028.976
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 1 mean top P = 489.2218
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 2 mean bottom P = 1325.227
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 2 mean top P = 776.7641
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 3 mean bottom P = 1570.593
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 3 mean top P = 1131.564
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 4 mean bottom P = 688.7656
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 4 mean top P = 247.5828
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 5 mean bottom P = 36228.79
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 5 mean top P = 39267.90
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 5 failed bottom average leak check (<11000); actual value = 36228.79
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 5 failed top average leak check (<11000); actual value = 39267.90
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 5 failed bottom under pressure leak check (<15000); actual value = 34499.16
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 5 failed top under pressure leak check (<15000); actual value = 38410.16
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 6 mean bottom P = 2769.839
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 6 mean top P = 2729.903
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 7 mean bottom P = 2753.597
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 7 mean top P = 2008.172
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 8 mean bottom P = 1588.584
+2025-02-06 16:02:30> USER : Trace - complete; 1000ul Channel no. 8 mean top P = 1091.991
+2025-02-06 16:02:30> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-02-06 16:02:32> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > AV: er00/00
+2025-02-06 16:02:32> SYSTEM : Message Box - start; <Daily maintenance - failed>,   Available button(s): <OK>,   Default button: <OK>,   Message: <Daily maintenance failed (see the log file for details). Please power cycle the instrument before use.    -> Tightness check 1000ul channels>
+2025-02-06 16:05:45> SYSTEM : Message Box - complete; <Daily maintenance - failed>,   Closed with: <OK (1)>
+2025-02-06 16:05:45> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2025-02-06 16:05:46> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete;  > Front Cover: unlocked
+2025-02-06 16:05:46> Microlab® Star with Venus on Vantage : End method command - start;
+2025-02-06 16:05:47> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move up 1000ul channels
+2025-02-06 16:05:47> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move up CO-RE 96 Head
+2025-02-06 16:05:49> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move down auto load Y drive
+2025-02-06 16:05:49> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Spreading channels
+2025-02-06 16:05:51> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Switch off loading lights
+2025-02-06 16:05:52> Microlab® Star with Venus on Vantage : End method command - complete;
+2025-02-06 16:05:52> SYSTEM : Execute method - complete; 
+2025-02-06 16:05:52> SYSTEM : End method - start; 
+2025-02-06 16:05:52> SYSTEM : End method - complete; 
+2025-02-06 16:05:55> SYSTEM : File checksum - written; $$author=labuser$$valid=0$$time=2025-02-06 16:05$$checksum=14b0aeff$$length=136$$

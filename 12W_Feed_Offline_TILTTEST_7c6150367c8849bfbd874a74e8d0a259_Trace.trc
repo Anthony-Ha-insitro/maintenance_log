@@ -1,0 +1,209 @@
+2025-01-06 14:40:45> SYSTEM : Analyze method - start; Method file C:\Program Files (x86)\HAMILTON\Methods\Automation\12W_Feed_Offline_TILTTEST.hsl
+2025-01-06 14:40:53> Microlab® Star with Venus on Vantage : Communication - progress; Connection to instrument is created.
+2025-01-06 14:40:54> SYSTEM : Analyze method - complete; 
+2025-01-06 14:41:00> SYSTEM : Start method - start; 
+2025-01-06 14:41:00> SYSTEM : Start method - progress; User name: labuser
+2025-01-06 14:41:00> SYSTEM : Start method - progress; Phoenix software version: 4.5.0.7977
+2025-01-06 14:41:00> SYSTEM : Start method - progress; Database version: Standard
+2025-01-06 14:41:00> SYSTEM : Start method - progress; Sample tracking: On
+2025-01-06 14:41:00> SYSTEM : Start method - progress; Vector Database: On
+2025-01-06 14:41:00> SYSTEM : Start method - progress; Vector Database connection: Database 'HamiltonVectorDB' on Microsoft SQL Server 'LOCALHOST\HAMILTON' with user 'Hamilton'
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - start;
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Microlab® Star with Venus on Vantage software version: 4.5.0.5217
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Serial number of Instrument: 1526 1 81
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of main module: S.1.01.00.00 2018-12-06
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of 1000µl channels: S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX)
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of 5ml channels: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of labware handling channels: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of auto load: S.1.00.00.52 2017-12-12 (XRP IX IDL2EC)
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of iSWAP: S.1.01.01.02 2018-04-27 (XRP R0)
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of washer 1: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of washer 2: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of temperature-controlled carrier 1: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of temperature-controlled carrier 2: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of CO-RE 96 Head: S.1.00.06.01 2022-10-06 (XRP H0)
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 1: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 2: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 3: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of nano dispenser: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of nano dispenser pressure unit: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of CO-RE 384 Head: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of tube gripper: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of camera channel: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of gel card gripper: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of punch card gripper: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of puncher module: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 1 module 1: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 1 module 2: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 2 module 1: not installed
+2025-01-06 14:41:01> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 2 module 2: not installed
+2025-01-06 14:41:04> Microlab® Star with Venus on Vantage : Start method command - complete;
+2025-01-06 14:41:04> SYSTEM : Start method - complete; 
+2025-01-06 14:41:04> SYSTEM : Execute method - start; Method file C:\Program Files (x86)\HAMILTON\Methods\Automation\12W_Feed_Offline_TILTTEST.hsl
+2025-01-06 14:41:04> Microlab® Star with Venus on Vantage : Initialize (Single Step) - start;
+2025-01-06 14:41:04> Microlab® Star with Venus on Vantage : Initialize (Single Step) - complete;  > channel 1: VStarWaste_8Pos_0001,  > channel 2: VStarWaste_8Pos_0001,  > channel 3: VStarWaste_8Pos_0001,  > channel 4: VStarWaste_8Pos_0001,  > channel 5: VStarWaste_8Pos_0001,  > channel 6: VStarWaste_8Pos_0001,  > channel 7: VStarWaste_8Pos_0001,  > channel 8: VStarWaste_8Pos_0001, 
+2025-01-06 14:41:04> USER : Trace - complete; :::VOV Recieved Color (RBGW):0:0:0:100:
+2025-01-06 14:41:04> USER : Trace - complete; :::VOV Sending Color (RBGW):0:0:0:100:
+2025-01-06 14:41:04> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-01-06 14:41:04> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: C0AMLIer0
+2025-01-06 14:41:04> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2025-01-06 14:41:05> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete;  > Front Cover: unlocked
+2025-01-06 14:41:05> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-01-06 14:41:06> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: I1AMLPer00
+2025-01-06 14:41:06> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2025-01-06 14:41:07> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete;  > Front Cover: locked
+2025-01-06 14:41:07> USER : Trace - complete; INSITRO TRACKING CODE: IAT1_12W_Feed_Offline
+2025-01-06 14:41:07> USER : Trace - complete; ******************************************12W Feed Offline Start******************************************
+2025-01-06 14:41:07> USER : Trace - complete; INSITRO METHOD VERSION: 12W_Feed_Offline_v1.0.0
+2025-01-06 14:41:07> TRACELEVEL : Trace_10 - complete; System - Get Configuration Value - Key: tilt_module_com_port - Value: 2
+2025-01-06 14:41:07> TRACELEVEL : Trace_10 - complete; System - Get Configuration Value - Key: media_fill_com_port - Value: 19
+2025-01-06 14:41:07> USER : Trace - complete; ***************************************************Get Method Details***************************************************
+2025-01-06 14:41:07> TRACELEVEL : Trace_06 - complete; 0 - Connect - Start
+2025-01-06 14:41:07> TRACELEVEL : Trace_06 - complete; 0 - Connect - i_strModuleNameT1
+2025-01-06 14:41:07> TRACELEVEL : Trace_06 - complete; 0 - Connect - l_intCOMPort2
+2025-01-06 14:41:07> _Method::HSLDaisyChainedTiltModule::Initialize : () - start;  Initialize system #T1 on COM2
+2025-01-06 14:41:07> _Method::HSLDaisyChainCommunication::InitializeDaisyChainCommunication : () - start;  Initialize Daisy Chain on COM2 for module T1
+2025-01-06 14:41:07> _Method::HSLDaisyChainCommunication::InitializeDaisyChainCommunication : () - progress;  port opened with [COM2 1200,E,8,1,N,CR/LF]
+2025-01-06 14:41:07> _Method::HSLDaisyChainCommunication::InitializeDaisyChainCommunication : () - complete; 
+2025-01-06 14:41:09> _Method::HSLDaisyChainedTiltModule::Initialize : () - progress; Firmware version of tilt module <T1> is T1RFer00 A.0.0.4.0 2014-05-05 (TLT)
+2025-01-06 14:41:11> _Method::HSLDaisyChainedTiltModule::Initialize : () - complete; 
+2025-01-06 14:41:11> TRACELEVEL : Trace_06 - complete; 0 - Connect - Complete
+2025-01-06 14:41:11> TRACELEVEL : Trace_06 - complete; 0 - Connect - Start
+2025-01-06 14:41:11> TRACELEVEL : Trace_06 - complete; 0 - Connect - i_strModuleNameT2
+2025-01-06 14:41:11> TRACELEVEL : Trace_06 - complete; 0 - Connect - l_intCOMPort2
+2025-01-06 14:41:11> _Method::HSLDaisyChainedTiltModule::Initialize : () - start;  Initialize system #T2 on COM2
+2025-01-06 14:41:11> _Method::HSLDaisyChainCommunication::InitializeDaisyChainCommunication : () - start;  Initialize Daisy Chain on COM2 for module T2
+2025-01-06 14:41:11> _Method::HSLDaisyChainCommunication::InitializeDaisyChainCommunication : () - complete; 
+2025-01-06 14:41:12> _Method::HSLDaisyChainedTiltModule::Initialize : () - progress; Firmware version of tilt module <T2> is T2RFer00 A.0.0.4.0 2014-05-05 (TLT)
+2025-01-06 14:41:14> _Method::HSLDaisyChainedTiltModule::Initialize : () - complete; 
+2025-01-06 14:41:14> TRACELEVEL : Trace_06 - complete; 0 - Connect - Complete
+2025-01-06 14:41:14> SYSTEM : Edit Sequence Dialog - start; <Edit Tip Count>,   Prompt: <Set the first and the last position of the tip sequence as the actual  current and count position of the tip sequence respectively.>
+2025-01-06 14:41:19> SYSTEM : Edit Sequence Dialog - complete; <Edit Tip Count>
+2025-01-06 14:41:19> TRACELEVEL : Trace_10 - complete; System - Get Configuration Value - Key: tilt_angle - Value: 10.3
+2025-01-06 14:41:19> TRACELEVEL : Trace_10 - complete; System - Get Configuration Value - Key: tilt_x_offset - Value: -0.8
+2025-01-06 14:41:19> TRACELEVEL : Trace_10 - complete; System - Get Configuration Value - Key: tilt_z_offset - Value: 0
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - start;    ---------------------------------------- Source_tilt_10degree_dynamic_columnsorted ----------------------------------------
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_A1: x = 1254.500, y = 429.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_B1: x = 1254.500, y = 403.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_C1: x = 1254.500, y = 377.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_A2: x = 1280.500, y = 429.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_B2: x = 1280.500, y = 403.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_C2: x = 1280.500, y = 377.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_A3: x = 1306.500, y = 429.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_B3: x = 1306.500, y = 403.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_C3: x = 1306.500, y = 377.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_A4: x = 1332.500, y = 429.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_B4: x = 1332.500, y = 403.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_C4: x = 1332.500, y = 377.3000, z = 203.7000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - complete; ---------------------------------------------------------------------------------------------------------------------------
+2025-01-06 14:41:19> USER : Trace - complete; ===========================================================================
+2025-01-06 14:41:19> USER : Trace - complete; ADJUST_TiltLabware - START
+2025-01-06 14:41:19> USER : Trace - complete; 
+2025-01-06 14:41:19> USER : Trace - complete; X Shift:  11.375  Container Width:  22.75
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  A1 X Offset:  -13.2  Z Offset:  3.1
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  B1 X Offset:  -13.2  Z Offset:  3.1
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  C1 X Offset:  -13.2  Z Offset:  3.1
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  A2 X Offset:  -13.6  Z Offset:  7.7
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  B2 X Offset:  -13.6  Z Offset:  7.7
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  C2 X Offset:  -13.6  Z Offset:  7.7
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  A3 X Offset:  -14  Z Offset:  12.4
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  B3 X Offset:  -14  Z Offset:  12.4
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  C3 X Offset:  -14  Z Offset:  12.4
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  A4 X Offset:  -14.4  Z Offset:  17
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  B4 X Offset:  -14.4  Z Offset:  17
+2025-01-06 14:41:19> USER : Trace - complete; Lab ID:  Source_tilt_10degree_dynamic Pos ID:  C4 X Offset:  -14.4  Z Offset:  17
+2025-01-06 14:41:19> USER : Trace - complete; 
+2025-01-06 14:41:19> USER : Trace - complete; ADJUST_TiltLabware - FINISH
+2025-01-06 14:41:19> USER : Trace - complete; ===========================================================================
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - start;    ---------------------------------------- seq_AdjustedSequence ----------------------------------------
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_A1: x = 1241.300, y = 429.3000, z = 206.0000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_B1: x = 1241.300, y = 403.3000, z = 206.0000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_C1: x = 1241.300, y = 377.3000, z = 206.0000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_A2: x = 1266.900, y = 429.3000, z = 210.6000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_B2: x = 1266.900, y = 403.3000, z = 210.6000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_C2: x = 1266.900, y = 377.3000, z = 210.6000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_A3: x = 1292.500, y = 429.3000, z = 215.3000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_B3: x = 1292.500, y = 403.3000, z = 215.3000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_C3: x = 1292.500, y = 377.3000, z = 215.3000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_A4: x = 1318.100, y = 429.3000, z = 219.9000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_B4: x = 1318.100, y = 403.3000, z = 219.9000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - progress; Source_tilt_10degree_dynamic_C4: x = 1318.100, y = 377.3000, z = 219.9000, r = 0.0000000
+2025-01-06 14:41:19> TRACELEVEL : TraceSequencePositions - complete; ------------------------------------------------------------------------------------------------------
+2025-01-06 14:41:19> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2025-01-06 14:41:20> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete;  > Front Cover: unlocked
+2025-01-06 14:41:20> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-01-06 14:41:21> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: I1AMLPer00
+2025-01-06 14:41:21> USER : Trace - complete; ***************************************************Process Start***************************************************
+2025-01-06 14:41:21> TRACELEVEL : TraceArray - start;    ------------------------
+2025-01-06 14:41:21> TRACELEVEL : TraceArray - progress; tilt_module_name [1]: T2
+2025-01-06 14:41:21> TRACELEVEL : TraceArray - progress; tilt_module_name [2]: T1
+2025-01-06 14:41:21> TRACELEVEL : TraceArray - complete; ------------------------
+2025-01-06 14:41:21> USER : Trace - complete; Tilt Module Move Action: Tilt 1 to degree angle: 10
+2025-01-06 14:41:21> TRACELEVEL : Trace_06 - complete; Hamilton Tilt Module - MoveToPosition - Start
+2025-01-06 14:41:21> _Method::HSLDaisyChainedTiltModule::MoveToPosition : () - start;  Module #T2to position: angle = 10
+2025-01-06 14:41:22> _Method::HSLDaisyChainedTiltModule::MoveToPosition : () - complete; 
+2025-01-06 14:41:22> TRACELEVEL : Trace_06 - complete; Hamilton Tilt Module - MoveToPosition - Complete
+2025-01-06 14:41:22> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Pick Up (Single Step) - start;
+2025-01-06 14:41:34> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Pick Up (Single Step) - complete;  > channel 1: HTF_L_0008, 25 > channel 2: HTF_L_0008, 26 > channel 3: HTF_L_0008, 27 > channel 4: HTF_L_0008, 28 > channel 5: HTF_L_0008, 29 > channel 6: HTF_L_0008, 30
+2025-01-06 14:41:34> Microlab® Star with Venus on Vantage : 1000ul Channel Aspirate (Single Step) - start;
+2025-01-06 14:41:49> Microlab® Star with Venus on Vantage : 1000ul Channel Aspirate (Single Step) - complete;  > channel 1: Source_tilt_10degree_dynamic, A1, 1000 uL > channel 2: Source_tilt_10degree_dynamic, B1, 1000 uL > channel 3: Source_tilt_10degree_dynamic, C1, 1000 uL
+2025-01-06 14:41:49> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - start;
+2025-01-06 14:41:49> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - progress; WARNING: Different liquid classes between first aspiration and current step.  Current liquid class: [C01=HighVolumeFilter_Water_DispenseJet_Empty][C02=HighVolumeFilter_Water_DispenseJet_Empty][C03=HighVolumeFilter_Water_DispenseJet_Empty], liquid class in initial aspiration: [C01=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash][C02=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash][C03=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash].
+2025-01-06 14:41:57> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - complete;  > channel 1: Fal_96_Rd_0001, A6, 1000 uL > channel 2: Fal_96_Rd_0001, B6, 1000 uL > channel 3: Fal_96_Rd_0001, C6, 1000 uL
+2025-01-06 14:41:57> Microlab® Star with Venus on Vantage : 1000ul Channel Aspirate (Single Step) - start;
+2025-01-06 14:42:09> Microlab® Star with Venus on Vantage : 1000ul Channel Aspirate (Single Step) - complete;  > channel 1: Source_tilt_10degree_dynamic, A2, 1000 uL > channel 2: Source_tilt_10degree_dynamic, B2, 1000 uL > channel 3: Source_tilt_10degree_dynamic, C2, 1000 uL
+2025-01-06 14:42:09> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - start;
+2025-01-06 14:42:09> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - progress; WARNING: Different liquid classes between first aspiration and current step.  Current liquid class: [C01=HighVolumeFilter_Water_DispenseJet_Empty][C02=HighVolumeFilter_Water_DispenseJet_Empty][C03=HighVolumeFilter_Water_DispenseJet_Empty], liquid class in initial aspiration: [C01=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash][C02=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash][C03=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash].
+2025-01-06 14:42:17> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - complete;  > channel 1: Fal_96_Rd_0001, A6, 1000 uL > channel 2: Fal_96_Rd_0001, B6, 1000 uL > channel 3: Fal_96_Rd_0001, C6, 1000 uL
+2025-01-06 14:42:17> Microlab® Star with Venus on Vantage : 1000ul Channel Aspirate (Single Step) - start;
+2025-01-06 14:42:28> Microlab® Star with Venus on Vantage : 1000ul Channel Aspirate (Single Step) - complete;  > channel 1: Source_tilt_10degree_dynamic, A3, 1000 uL > channel 2: Source_tilt_10degree_dynamic, B3, 1000 uL > channel 3: Source_tilt_10degree_dynamic, C3, 1000 uL
+2025-01-06 14:42:28> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - start;
+2025-01-06 14:42:29> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - progress; WARNING: Different liquid classes between first aspiration and current step.  Current liquid class: [C01=HighVolumeFilter_Water_DispenseJet_Empty][C02=HighVolumeFilter_Water_DispenseJet_Empty][C03=HighVolumeFilter_Water_DispenseJet_Empty], liquid class in initial aspiration: [C01=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash][C02=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash][C03=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash].
+2025-01-06 14:42:36> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - complete;  > channel 1: Fal_96_Rd_0001, A6, 1000 uL > channel 2: Fal_96_Rd_0001, B6, 1000 uL > channel 3: Fal_96_Rd_0001, C6, 1000 uL
+2025-01-06 14:42:36> Microlab® Star with Venus on Vantage : 1000ul Channel Aspirate (Single Step) - start;
+2025-01-06 14:42:47> Microlab® Star with Venus on Vantage : 1000ul Channel Aspirate (Single Step) - complete;  > channel 1: Source_tilt_10degree_dynamic, A4, 1000 uL > channel 2: Source_tilt_10degree_dynamic, B4, 1000 uL > channel 3: Source_tilt_10degree_dynamic, C4, 1000 uL
+2025-01-06 14:42:47> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - start;
+2025-01-06 14:42:48> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - progress; WARNING: Different liquid classes between first aspiration and current step.  Current liquid class: [C01=HighVolumeFilter_Water_DispenseJet_Empty][C02=HighVolumeFilter_Water_DispenseJet_Empty][C03=HighVolumeFilter_Water_DispenseJet_Empty], liquid class in initial aspiration: [C01=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash][C02=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash][C03=HighVolumeFilter_Media_DispenseJet_Empty_insitro_wash].
+2025-01-06 14:42:55> Microlab® Star with Venus on Vantage : 1000ul Channel Dispense (Single Step) - complete;  > channel 1: Fal_96_Rd_0001, A6, 1000 uL > channel 2: Fal_96_Rd_0001, B6, 1000 uL > channel 3: Fal_96_Rd_0001, C6, 1000 uL
+2025-01-06 14:42:55> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - start;
+2025-01-06 14:43:03> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - complete;  > channel 1: VStarWaste_8Pos_0001,  > channel 2: VStarWaste_8Pos_0001,  > channel 3: VStarWaste_8Pos_0001,  > channel 4: VStarWaste_8Pos_0001,  > channel 5: VStarWaste_8Pos_0001,  > channel 6: VStarWaste_8Pos_0001, 
+2025-01-06 14:43:03> TRACELEVEL : TraceArray - start;    ------------------------
+2025-01-06 14:43:03> TRACELEVEL : TraceArray - progress; tilt_module_name [1]: T2
+2025-01-06 14:43:03> TRACELEVEL : TraceArray - progress; tilt_module_name [2]: T1
+2025-01-06 14:43:03> TRACELEVEL : TraceArray - complete; ------------------------
+2025-01-06 14:43:03> USER : Trace - complete; Tilt Module Move Action: Tilt 1 to degree angle: 0
+2025-01-06 14:43:03> TRACELEVEL : Trace_06 - complete; Hamilton Tilt Module - MoveToPosition - Start
+2025-01-06 14:43:03> _Method::HSLDaisyChainedTiltModule::MoveToPosition : () - start;  Module #T2to position: angle = 0
+2025-01-06 14:43:04> _Method::HSLDaisyChainedTiltModule::MoveToPosition : () - complete; 
+2025-01-06 14:43:04> TRACELEVEL : Trace_06 - complete; Hamilton Tilt Module - MoveToPosition - Complete
+2025-01-06 14:43:04> SYSTEM : Method has been aborted by the method - complete; 
+2025-01-06 14:43:04> SYSTEM : Abort method - start; 
+2025-01-06 14:43:04> Microlab® Star with Venus on Vantage : Abort requested command - start;
+2025-01-06 14:43:04> Microlab® Star with Venus on Vantage : Abort requested command - complete;
+2025-01-06 14:43:04> Microlab® Star with Venus on Vantage : Start Method Abort Handler command - start;
+2025-01-06 14:43:04> Microlab® Star with Venus on Vantage : Start Method Abort Handler command - complete;
+2025-01-06 14:43:04> TRACELEVEL : Trace_06 - complete; Hamilton Tilt Module - Disconnect - Start
+2025-01-06 14:43:04> _Method::HSLDaisyChainedTiltModule::Terminate : () - start;  Module #T2
+2025-01-06 14:43:05> _Method::HSLDaisyChainCommunication::TerminateDaisyChainCommunication : () - start;  Module T2
+2025-01-06 14:43:05> _Method::HSLDaisyChainCommunication::TerminateDaisyChainCommunication : () - complete; 
+2025-01-06 14:43:05> _Method::HSLDaisyChainedTiltModule::Terminate : () - complete; 
+2025-01-06 14:43:05> TRACELEVEL : Trace_06 - complete; Hamilton Tilt Module - Disconnect - Complete
+2025-01-06 14:43:05> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2025-01-06 14:43:06> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete;  > Front Cover: unlocked
+2025-01-06 14:43:06> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2025-01-06 14:43:07> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: I1AMLPer00
+2025-01-06 14:43:07> USER : Trace - complete; INSITRO TRACKING CODE: IAT4_12W_Feed_Offline
+2025-01-06 14:43:07> Microlab® Star with Venus on Vantage : Abort command - start;
+2025-01-06 14:43:07> Microlab® Star with Venus on Vantage : Abort command - complete;
+2025-01-06 14:43:07> SYSTEM : Abort method - complete; 
+2025-01-06 14:43:07> SYSTEM : Execute method - complete; 
+2025-01-06 14:43:07> SYSTEM : End method - start; 
+2025-01-06 14:43:07> Microlab® Star with Venus on Vantage : End method command - start;
+2025-01-06 14:43:08> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move up 1000ul channels
+2025-01-06 14:43:09> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move up CO-RE 96 Head
+2025-01-06 14:43:09> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move down auto load Y drive
+2025-01-06 14:43:09> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Spreading channels
+2025-01-06 14:43:10> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Switch off loading lights
+2025-01-06 14:43:12> Microlab® Star with Venus on Vantage : End method command - complete;
+2025-01-06 14:43:12> SYSTEM : End method - complete; 
+2025-01-06 14:43:37> SYSTEM : File checksum - written; $$author=labuser$$valid=0$$time=2025-01-06 14:43$$checksum=eb9cd41c$$length=136$$

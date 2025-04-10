@@ -1,0 +1,155 @@
+2024-01-30 14:56:33> SYSTEM : Analyze method - start; Method file C:\Program Files (x86)\HAMILTON\Methods\VM\VOVDailyMaintenance.hsl
+2024-01-30 14:56:33> SYSTEM : Analyze method - complete; 
+2024-01-30 14:56:33> SYSTEM : Start method - start; 
+2024-01-30 14:56:33> SYSTEM : Start method - progress; User name: labadmin
+2024-01-30 14:56:33> SYSTEM : Start method - progress; Phoenix software version: 4.6.0.8061
+2024-01-30 14:56:33> SYSTEM : Start method - progress; Database version: Standard
+2024-01-30 14:56:33> SYSTEM : Start method - progress; Sample tracking: On
+2024-01-30 14:56:33> SYSTEM : Start method - progress; Vector Database: On
+2024-01-30 14:56:33> SYSTEM : Start method - progress; Vector Database connection: Database 'HamiltonVectorDB' on Microsoft SQL Server 'LOCALHOST\HAMILTON' with user 'Hamilton'
+2024-01-30 14:56:34> SYSTEM : Start method - complete; 
+2024-01-30 14:56:34> SYSTEM : Execute method - start; Method file C:\Program Files (x86)\HAMILTON\Methods\VM\VOVDailyMaintenance.hsl
+2024-01-30 14:56:34> Microlab® Star with Venus on Vantage : Communication - progress; Connection to instrument is created.
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - start;
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Microlab® Star with Venus on Vantage software version: 4.6.0.5314
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Serial number of Instrument: 100064 0 81
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of main module: S.1.04.03.01 2022-02-11 (XRP AX)
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of 1000µl channels: S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX), S.1.01.10.02 2022-01-31 (XRP PX)
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of 5ml channels: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of labware handling channels: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of auto load: S.2.00.00.00 2020-06-17 (IDLoader)
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of iSWAP: S.1.02.01.02 2021-05-04 (XRP R0)
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of washer 1: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of washer 2: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of temperature-controlled carrier 1: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of temperature-controlled carrier 2: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of CO-RE 96 Head: S.1.00.06.01 2022-10-06 (XRP H0)
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 1: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 2: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of pump station 3: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of nano dispenser: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of nano dispenser pressure unit: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of CO-RE 384 Head: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of tube gripper: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of camera channel: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of gel card gripper: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of punch card gripper: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of puncher module: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 1 module 1: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 1 module 2: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 2 module 1: not installed
+2024-01-30 14:56:35> Microlab® Star with Venus on Vantage : Start method command - progress; Firmware version of twister decapper station 2 module 2: not installed
+2024-01-30 14:57:00> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - progress; Error handling waiting for manual recovery!
+2024-01-30 14:59:52> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - error;  > Front Cover: 1, E:C0:16/00:Repeat
+2024-01-30 14:59:52> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - progress; Error manually recovered by user.
+2024-01-30 15:00:00> Microlab® Star with Venus on Vantage : Start method command - complete;
+2024-01-30 15:00:00> Microlab® Star with Venus on Vantage : Initialize (Single Step) - start;
+2024-01-30 15:00:54> Microlab® Star with Venus on Vantage : Initialize (Single Step) - complete;  > channel 1: VStarWaste_16Pos_0001,  > channel 2: VStarWaste_16Pos_0001,  > channel 3: VStarWaste_16Pos_0001,  > channel 4: VStarWaste_16Pos_0001,  > channel 5: VStarWaste_16Pos_0001,  > channel 6: VStarWaste_16Pos_0001,  > channel 7: VStarWaste_16Pos_0001,  > channel 8: VStarWaste_16Pos_0001, 
+2024-01-30 15:00:54> USER : Trace - complete; Instrument Name: Microlab® Star with Venus on Vantage
+2024-01-30 15:00:54> USER : Trace - complete; User Software Version: 4.6.0.5314
+2024-01-30 15:00:54> USER : Trace - complete; Operator:labadmin
+2024-01-30 15:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RI: er00/00si2022-11-04sn100064 0 81
+2024-01-30 15:00:54> USER : Trace - complete; Instrument Serial No: 1000
+2024-01-30 15:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > RM: er00/00kb0Fkp08 C00000 H00000 R00000 P10000 P20000 P30000 P40000 P50000 P60000 P70000 P80000 I00000 R00000
+2024-01-30 15:00:54> USER : Trace - complete; Instrument Number of 1000ul Channels: 8
+2024-01-30 15:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:00:54> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > QM: er00/00ka410087ke00002000xt84xa77xw13845xl07xn00xr00xo00xm03600xx18150xu5128xv0000kc0kr0ys090kl180km000ym6530yu0015yx0000
+2024-01-30 15:00:54> USER : Trace - complete; Instrument Number of 5ml Channels: 0
+2024-01-30 15:00:54> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2024-01-30 15:00:56> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete;  > Front Cover: unlocked
+2024-01-30 15:00:56> SYSTEM : Message Box - start; <Daily maintenance - check deck cleaning>,   Available button(s): <OK>, <Cancel>,   Default button: <OK>,   Message: <Open the front cover and check if the deck needs to be cleaned.  If the deck is clean, press OK to continue.  If the deck needs to be cleaned, press Cancel to abort the daily maintenance. Instead, proceed with the weekly maintenance.>
+2024-01-30 15:01:01> SYSTEM : Message Box - complete; <Daily maintenance - check deck cleaning>,   Closed with: <OK (1)>
+2024-01-30 15:01:01> SYSTEM : Message Box - start; <Daily maintenance - tip waste>,   Available button(s): <OK>, <Cancel>,   Default button: <OK>,   Message: <Empty the tip waste and press OK to continue.  Cancel will abort the daily maintenance.>
+2024-01-30 15:01:02> SYSTEM : Message Box - complete; <Daily maintenance - tip waste>,   Closed with: <OK (1)>
+2024-01-30 15:01:02> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:02> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > QC: er00/00qc1
+2024-01-30 15:01:02> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2024-01-30 15:01:08> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete;  > Front Cover: locked
+2024-01-30 15:01:08> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > AV: er00/00
+2024-01-30 15:01:10> USER : Trace - complete; bottom under pressure check for channels: 11111111
+2024-01-30 15:01:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DQer00
+2024-01-30 15:01:10> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1DQer00
+2024-01-30 15:01:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P1BPer00
+2024-01-30 15:01:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DQer00
+2024-01-30 15:01:11> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2DQer00
+2024-01-30 15:01:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P2BPer00
+2024-01-30 15:01:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DQer00
+2024-01-30 15:01:12> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3DQer00
+2024-01-30 15:01:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P3BPer00
+2024-01-30 15:01:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DQer00
+2024-01-30 15:01:13> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4DQer00
+2024-01-30 15:01:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P4BPer00
+2024-01-30 15:01:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DQer00
+2024-01-30 15:01:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5DQer00
+2024-01-30 15:01:14> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P5BPer00
+2024-01-30 15:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DQer00
+2024-01-30 15:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6DQer00
+2024-01-30 15:01:15> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P6BPer00
+2024-01-30 15:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DQer00
+2024-01-30 15:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7DQer00
+2024-01-30 15:01:16> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P7BPer00
+2024-01-30 15:01:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DQer00
+2024-01-30 15:01:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8DQer00
+2024-01-30 15:01:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1P8BPer00
+2024-01-30 15:01:17> USER : Trace - complete; FormatCmdForTipPickup = A1PMTPtt10&tp2220&tz2120&th2450&td3&te2450&xp13740&yp4689 4599 4509 4419 1539 1449 1359 1269ba9375&tm1 1 1 1 1 1 1 1
+2024-01-30 15:01:17> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - start;
+2024-01-30 15:01:25> Microlab® Star with Venus on Vantage : Firmware Command (Single Step) - complete;  > ##: A1PMTPer99es"P575 P675 P775 P875"
+2024-01-30 15:01:25> SYSTEM : Execute method - error; An error occurred while running Vector.  The error description is: Tip pickup failed (0x0 - 0x0 - 0x1) , 
+2024-01-30 15:01:25> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - start;
+2024-01-30 15:01:31> Microlab® Star with Venus on Vantage : 1000ul Channel Tip Eject (Single Step) - complete;  > channel 1: TeachingNeedleBlock_VStar_4_0001, 1 > channel 2: TeachingNeedleBlock_VStar_4_0001, 2 > channel 3: TeachingNeedleBlock_VStar_4_0001, 3 > channel 4: TeachingNeedleBlock_VStar_4_0001, 4 > channel 5: TeachingNeedleBlock_VStar_4_0002, 1 > channel 6: TeachingNeedleBlock_VStar_4_0002, 2 > channel 7: TeachingNeedleBlock_VStar_4_0002, 3 > channel 8: TeachingNeedleBlock_VStar_4_0002, 4
+2024-01-30 15:01:31> SYSTEM : Message Box - start; <Error>,   Available button(s): <OK>,   Default button: <OK>,   Message: <Tip pickup failed>
+2024-01-30 15:01:40> SYSTEM : Message Box - complete; <Error>,   Closed with: <OK (1)>
+2024-01-30 15:01:40> SYSTEM : Message Box - start; <Daily maintenance - error>,   Available button(s): <OK>,   Default button: <OK>,   Message: <Tip pickup failed>
+2024-01-30 15:01:41> SYSTEM : Message Box - complete; <Daily maintenance - error>,   Closed with: <OK (1)>
+2024-01-30 15:01:41> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2024-01-30 15:01:46> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete;  > Front Cover: locked
+2024-01-30 15:01:46> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - start;
+2024-01-30 15:01:48> Microlab® Star with Venus on Vantage : Lock/Unlock Front Cover (Single Step) - complete;  > Front Cover: unlocked
+2024-01-30 15:01:48> SYSTEM : Method has been aborted by the method - complete; 
+2024-01-30 15:01:48> SYSTEM : Abort method - start; 
+2024-01-30 15:01:48> Microlab® Star with Venus on Vantage : Abort requested command - start;
+2024-01-30 15:01:48> Microlab® Star with Venus on Vantage : Abort requested command - complete;
+2024-01-30 15:01:48> Microlab® Star with Venus on Vantage : Start Method Abort Handler command - start;
+2024-01-30 15:01:48> Microlab® Star with Venus on Vantage : Start Method Abort Handler command - complete;
+2024-01-30 15:01:48> Microlab® Star with Venus on Vantage : Abort command - start;
+2024-01-30 15:01:48> Microlab® Star with Venus on Vantage : Abort command - complete;
+2024-01-30 15:01:48> Microlab® Star with Venus on Vantage : End method command - start;
+2024-01-30 15:01:56> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move up 1000ul channels
+2024-01-30 15:01:56> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move up CO-RE 96 Head
+2024-01-30 15:01:58> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Move down auto load Y drive
+2024-01-30 15:01:58> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Spreading channels
+2024-01-30 15:02:00> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Switch off loading lights
+2024-01-30 15:02:00> Microlab® Star with Venus on Vantage : Clean up instrument - progress; Switch status light to idle.
+2024-01-30 15:02:00> Microlab® Star with Venus on Vantage : End method command - complete;
+2024-01-30 15:02:00> SYSTEM : Abort method - complete; 
+2024-01-30 15:02:00> SYSTEM : Execute method - complete; 
+2024-01-30 15:02:00> SYSTEM : End method - start; 
+2024-01-30 15:02:00> SYSTEM : End method - complete; 
+2024-01-30 15:02:01> SYSTEM : File checksum - written; $$author=labadmin$$valid=0$$time=2024-01-30 15:02$$checksum=da302f68$$length=137$$
